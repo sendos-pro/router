@@ -9,7 +9,7 @@
         "start": "node app.js",
         "show": "NODE_CONFIG_ONLY=true node app.js"
     },
-    "author": "Andris Reinman",
+    "author": "Adam Tutaev",
     "license": "EUPL-1.1+",
     "dependencies": {
         "addressparser": "1.0.1",
